@@ -17,9 +17,9 @@ Visto a crescente demanda de vendas de artigos tecnológicos na pandemia, esse s
 
 - [x] Telas de Cadastro e manutenção de usuários 
 - [x] Telas de Cadastro e manutenção de produtos
-- [x] Controle de estoque
+- [ ] Controle de estoque
   - [x] Listar produtos com o Estoque
-- [ ] Controle de vendas
+- [x] Controle de vendas
 - [x] Funcionalidade para adicionar produtos no carrinho
 - [x] Gerenciar Carrinho de compras
 - [x] Telas de finalização de compra
